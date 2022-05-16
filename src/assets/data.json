@@ -160,17 +160,16 @@
       "featured": true
     },
     {
-      "title": "Coding Quiz",
-      "short_description": "A quiz to test your knowledge",
-      "long_description": "A very simple coding quiz with a timer and score feature",
-      "other_description": "Week 7 - Food review website in the style of Wolt using Zomato API, first mob-programming project using Git branching and merging",
-      "image_url": "week-07",
-      "href": "https://seafood-in-atlanta.netlify.app/",
+      "title": "Password Generator",
+      "short_description": "A randomized password generator",
+      "long_description": "A simple, yet effective randomized password generator",
+      "other_description": "A simple, yet effective randomized password generator",
+      "image_url": "passwordGen",
+      "href": "https://mckeags7.github.io/PasswordGen/",
       "tags": [
         "HTML5",
         "CSS3",
         "Javascript ES6",
-        "API",
         "Local storage"
       ],
       "featured": false
