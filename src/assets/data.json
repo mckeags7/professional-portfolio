@@ -1,0 +1,179 @@
+{
+  "projects": [
+    {
+      "title": "Husky Hangout",
+      "short_description": "Events Networking App",
+      "long_description": "Week 23 - Team-built React application for UCONN students: final project for UCONN Full-Stack Web Developer Program.",
+      "other_description": "Week 23 - Team-built React application for UCONN students: final project for UCONN Full-Stack Web Developer Program.",
+      "image_url": "Huskyhangout",
+      "href": "https://husky-hangout.herokuapp.com/",
+      "tags": [
+        "React",
+        "Local storage",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "API",
+        "Mob-programming"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Budget Vault",
+      "short_description": "Budget tracking app",
+      "long_description": "Website built in React using GraphQ.",
+      "other_description": "Budget calculating website with display built in React using GraphQL.",
+      "image_url": "budgetVault",
+      "href": "https://budget-vault.herokuapp.com/",
+      "tags": [
+        "React",
+        "React Router",
+        "Styled components",
+        "GraphQL",
+        "PWA"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Tech Blog Posts",
+      "short_description": "Tech Blog",
+      "long_description": "Blog to create and see posts, comment on posts, and delete posts.",
+      "other_description": "Blog to create and see posts, comment on posts, and delete posts.",
+      "image_url": "techBlogPosts",
+      "href": "https://tech-blog-posts-heroku.herokuapp.com/",
+      "tags": [
+        "Styled components",
+        "Accessibility",
+        "Node.js",
+        "Express",
+        "MySQL"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Recipe Repo",
+      "short_description": "Recipe Book and Sharing App",
+      "long_description": "Week 16 - Team-built personal recipe application: second project for UCONN Full-Stack Web Developer Program.",
+      "other_description": "Week 16 - Team-built personal recipe application: second project for UCONN Full-Stack Web Developer Program.",
+      "image_url": "recipeRepo",
+      "href": "https://damp-crag-63651.herokuapp.com/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "API",
+        "Git",
+        "Mob-programming"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Social Network API",
+      "short_description": "API and Mongoose",
+      "long_description": "NoSQL Challenge - Created and tested an API for use in a mock social network application.",
+      "other_description": "NoSQL Challenge - Created and tested an API for use in a mock social network application.",
+      "image_url": "socialAPI",
+      "href": "https://github.com/mckeags7/NoSQL-API-SN",
+      "tags": [
+        "NoSQL",
+        "Node.js",
+        "Express",
+        "Mongoose",
+        "MongoDB",
+        "API"
+      ],
+      "featured": false
+    },
+    {
+      "title": "Verbal Diary",
+      "short_description": "Diary/Notetaking Application",
+      "long_description": "A simple text-based app where the user can use it to write anything.",
+      "other_description": "A simple text-based application where the user can use it to write anything.",
+      "image_url": "verbalDiaryApp",
+      "href": "https://verbal-diary-heroku.herokuapp.com/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "Express",
+        "Accessibility",
+        "API"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Workday Scheduler",
+      "short_description": "Work Schedule",
+      "long_description": "A daily scheduling app for work.",
+      "other_description": "A daily scheduling app for work.",
+      "image_url": "workdayScheduler",
+      "href": "https://mckeags7.github.io/WorkdayScheduler/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Weather Dashboard",
+      "short_description": "Weather forecasting Application",
+      "long_description": "This weather application introduced third-party APIs.",
+      "other_description": "This weather application was an introduction to third-party APIs.",
+      "image_url": "WeatherDashboardApp",
+      "href": "https://mckeags7.github.io/weatherapp/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "API"
+      ],
+      "featured": true
+    },
+    {
+      "title": "README Generator",
+      "short_description": "README Generator",
+      "long_description": "A formatted README Generator for future applications.",
+      "other_description": "A formatted README Generator for future applications.",
+      "image_url": "readmeGen",
+      "href": "https://mckeags7.github.io/READMEGen/",
+      "tags": [
+        "HTML5",
+        "Node.js",
+        "Navigation"
+      ],
+      "featured": false
+    },
+    {
+      "title": "Sean Mckeag",
+      "short_description": "Portfolio v1",
+      "long_description": "First draft of my portfolio built from basics. I keep it here as a reminder for how far I've come.",
+      "other_description": "First draft of my portfolio built from basics. I keep it here as a reminder for how far I've come.",
+      "image_url": "myportfolio",
+      "href": "https://mckeags7.github.io/SeanMPortfolio/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Responsiveness",
+        "Accessibility"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Coding Quiz",
+      "short_description": "A quiz to test your knowledge",
+      "long_description": "A very simple coding quiz with a timer and score feature",
+      "other_description": "Week 7 - Food review website in the style of Wolt using Zomato API, first mob-programming project using Git branching and merging",
+      "image_url": "week-07",
+      "href": "https://seafood-in-atlanta.netlify.app/",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "Javascript ES6",
+        "API",
+        "Local storage"
+      ],
+      "featured": false
+    }
+  ]
+}
