@@ -34,4 +34,4 @@ Compatible for people using screen readers and keyboard navigation.
 
 This repository is located on https://github.com/mckeags7/professional-portfolio.
 
-You can take a look at the result on https://www.mindstorming.se/.
+You can take a look at the result on https://www.fswdmckeags7.com.
