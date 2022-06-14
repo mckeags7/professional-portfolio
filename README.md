@@ -5,11 +5,10 @@ I have created this portfolio to showcase my full-stack projects and professiona
 - the applications I built during the 24 weeks of the UCONN School of Engineering Full-Stack Web Developer Boot Camp
 - all applications created after the Boot Camp
 
-The layout is based on the Technigo portfolio design made by Jenny Skogvoll at Makeable Sthlm.
 
 ## The approach
 
-I built this portolio during week 20 of the UCONN Full-Stack Web Developer Boot Camp using React. By dividing the portfolio into smaller React components, it allows me to style and showcase my work using a Theme Provider.
+I built an initial portolio during week 20 of the UCONN Full-Stack Web Developer Boot Camp using React.
 
 I used conditional rendering to keep non-featured projects apart from the featured ones.
 
